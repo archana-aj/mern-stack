@@ -1,0 +1,18 @@
+.hello{
+    color:blueviolet
+}
+
+/* element selector */
+/* h1{
+color: red;
+}*/
+
+/* class selector */
+
+.heading2{
+    color:green;
+}
+/* id selector */
+#heading3{
+    color:aqua;
+}
