@@ -3,7 +3,7 @@
 }
 
 /* element selector */
-/* h1{
+h1{
 color: red;
 }*/
 
@@ -13,6 +13,19 @@ color: red;
     color:green;
 }
 /* id selector */
-#heading3{
+.heading3{
     color:aqua;
+}
+body{
+    margin: 0px;
+    padding: 0px
+}
+.navbar{
+    width: 100vw;
+    height: 8rem;
+    background-color: #fff;
+    display:flex ;
+}
+.nav-links{
+    display: flex;
 }
