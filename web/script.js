@@ -6,7 +6,7 @@ const b = "Archana"
 // b=10
 console.log(b)
 // Array
-let aaray1 = [a, b, true, 10, "hello"]
+let array1 = [a, b, true, 10, "hello"]
 console.log(array1)
 console.log(array1[1])
 //JS Object
