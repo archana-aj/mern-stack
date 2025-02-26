@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let a = "Archana J" //string
 a = 10 //number
 a = false //boolean
@@ -12,11 +11,14 @@ console.log(array1)
 console.log(array1[1])
 //js object
 let jsobj={
-=======
+    name: "a",
+    age: 12,
+    isalive: true
+}
 let a = "Archana" //string
 a = 10 // Number
 a = false //Boolean
-console.log(a)
+console.console.log(a)
 const b = "Archana"
 // b=10
 console.log(b)
@@ -26,12 +28,10 @@ console.log(array1)
 console.log(array1[1])
 //JS Object
 let jsobj = {
->>>>>>> 5c1cf739540862ed6440174c82aa3b87a98d240d
     name: "a",
     age: 12,
     isalive: true
 }
-<<<<<<< HEAD
 //json object
 let jsonobj={
     "name": "a",
@@ -40,14 +40,5 @@ let jsonobj={
 }
 console.log(jsonobj)
 console.log(jsonobj)
-=======
 //JSON Object
-let jsonobj = {
-    "name": "a" ,
-    "age" : 12,
-    "isalive": true
-}
-console.log(jsobj)
-console.log(lsonob)
 
->>>>>>> 5c1cf739540862ed6440174c82aa3b87a98d240d
