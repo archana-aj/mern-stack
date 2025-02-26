@@ -60,6 +60,7 @@ body{
     height: 8rem;
     /* background-color: #ee8eee; */
     display: flex;
+<<<<<<< HEAD
     box-shadow:
     2.8px 2.8px 2.2px rgba(0, 0, 0, 0.021),
     6.7px 6.7px 5.3px rgba(0, 0, 0, 0.032),
@@ -146,3 +147,6 @@ input-btn{
     padding: 1rem;
     font-weight: bold;
 }
+=======
+}
+>>>>>>> 5c1cf739540862ed6440174c82aa3b87a98d240d
